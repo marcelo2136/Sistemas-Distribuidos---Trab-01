@@ -1,0 +1,35 @@
+Tamanho do Vetor: 2
+Nome: Davout | CPF: 48291
+Idade: 42
+Nome: Bernadotte | CPF: 48022
+Idade: 36
+Tamanho do Vetor: 1
+Nome: Vieira | CPF: 8340958
+Idade: 12
+Tamanho do Vetor: 1
+Nome: Edu | CPF: 2358059
+Idade: 12
+Tamanho do Vetor: 1
+Nome: qw | CPF: 1
+Idade: 1
+Tamanho do Vetor: 1
+Nome: qw | CPF: 1
+Idade: 1
+Tamanho do Vetor: 3
+Nome: qw | CPF: 13455
+Idade: 12
+Nome: ty | CPF: 46466
+Idade: 31
+Nome: gh | CPF: 774735
+Idade: 10
+Tamanho do Vetor: 2
+Nome: gh | CPF: 367753
+Idade: 13
+Nome: jk | CPF: 55049
+Idade: 23
+Tamanho do Vetor: 0
+Tamanho do Vetor: 2
+Nome: er | CPF: 54735
+Idade: 48
+Nome: bn | CPF: 587864
+Idade: 31
